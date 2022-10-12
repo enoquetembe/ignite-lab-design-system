@@ -58,4 +58,7 @@ npm run dev
 
 <br>
 
+## Status
+This project is still under development
+
 Made with ❤  by [Enoque Tembe](https://github.com/enoquetembe)
