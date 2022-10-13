@@ -43,6 +43,12 @@ https://github.com/enoquetembe/ignite-lab-design-system.git
 ``` bash
 cd ignite-lab-design-system-main
 ```
+Install depedencies:
+
+``` bash
+npm install
+```
+
  Run the project:
 ``` bash
 npm run dev
