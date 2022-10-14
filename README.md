@@ -24,9 +24,9 @@ Design System is a collection of reusable components, standardized for a given p
 - HTML5
 - ReactJS
 - TypeScript
-- Tailwind CSS
-- Storybook
-- Todo....
+- **JavaScript** : 
+- **Tailwind CSS** : <!--A utility-first CSS framework for rapidly building custom user interfaces-->
+- **Storybook**: <!--An open source tool for building UI components and pages in isolation-->
 
 <br>
 
@@ -60,11 +60,14 @@ npm run dev
 <br>
 
 ## Screenshots
-- Todo
+![127 0 0 1_5173__ (1)](https://user-images.githubusercontent.com/98264322/195758042-549d3908-e543-4480-89dc-cce6948121e3.png)
+
 
 <br>
 
 ## Status
 This project is still under development
 
+  <br>
+  
 Made with ❤  by [Enoque Tembe](https://github.com/enoquetembe)
