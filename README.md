@@ -11,7 +11,7 @@
 <div>
 <br>
 
-This project is a design system for a project built in Rocketseat Igninte Lab with Reactjs and Figma. This design system was built from figma to code i.e, first the design of the project was made in figma and then the project was built with reactjs
+This project is a design system for a project built in Rocketseat Igninte Lab with React and Figma. This design system was built from Figma to code i.e, first the design of the project was made in Figma, then the project was built with React and the front-end was documented with Storybook.
 
 
 ## What is a design system?
@@ -21,12 +21,13 @@ Design System is a collection of reusable components, standardized for a given p
 <br>
 
 ## Technologies
-- HTML5
-- ReactJS
-- TypeScript
-- **JavaScript** : 
-- **Tailwind CSS** : <!--A utility-first CSS framework for rapidly building custom user interfaces-->
-- **Storybook**: <!--An open source tool for building UI components and pages in isolation-->
+- [HTML5](https://www.w3schools.com/html/): Is the standard markup language for Web pages
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces
+- [TypeScript](https://www.typescriptlang.org/docs/): Is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+- [**JavaScript**](https://www.javascript.com/): Is the programming language of the Web
+- [**Tailwind CSS**](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom user interfaces
+- [**Storybook**](https://storybook.js.org/): An open source tool for building UI components and pages in isolation
+- [Figma](https://www.figma.com/): A vector graphics editor and design project prototyping based primarily on the web browser.
 
 <br>
 
