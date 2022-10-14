@@ -36,7 +36,7 @@ Design System is a collection of reusable components, standardized for a given p
 
 ### 2. Open a terminal and follow the steps bellow
 
-###  Clone repository: 
+Clone repository: 
 ``` bash 
 https://github.com/enoquetembe/ignite-lab-design-system.git
 ```
